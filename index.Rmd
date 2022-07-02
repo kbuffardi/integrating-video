@@ -78,7 +78,7 @@ and used a Chi-square goodness of fit test to compare the expected vs. observed 
 | Expected | 58%               | 11%  | 31%    |
 | Observed | 38%               | 27%  | 36%    |
 
-*$\chi<sup>2</sup> =17.037, df=2, p<.001*
+&chi;^2=17.037, df=2, p&lt;.001
 
 When the video and practice features were integrated, **students practiced more frequently relative to how often they watched videos.**
 
