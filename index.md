@@ -61,9 +61,7 @@ their lives**.
 -   [Preliminary study compared affective
     outcomes](../sigcse2022-platform/) to other offerings of CS1
     (without the video and practice exercises) and found significantly
-    greater gains: n=216, Control (*Δ* M=0.18, sd=0.47), Intervention
-    (*Δ* M=0.38, sd=0.47), Wilcoxon test reports significant difference
-    (p&lt;.05)
+    greater gains
     -   Students tended to watch videos weekly, but **fewer than a third
         practiced weekly**
 
@@ -94,7 +92,56 @@ In a term of CS1 at UCSB, we adopted Codewit.us
 Findings
 --------
 
-TODO: Update this section
+**RQ1** - in post-hoc analysis of the term where videos and practice
+problems were provided separately (n=55), we discarded students who
+never used either and found:
+
+-   **58%** of students practiced **less often**
+-   **11%** practiced as often
+-   **31%** practiced **more often** than watching videos.
+
+**RQ2** - with the same procedure, we summarized how often students
+(n=156) practiced (in comparison to how often they watched videos):
+
+-   **38% less often**
+-   **27% as often**
+-   **36% more often**
+
+and used a Chi-square goodness of fit test to compare the expected
+vs. observed trends:
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: right;"></th>
+<th style="text-align: left;">Less</th>
+<th style="text-align: left;">Same</th>
+<th style="text-align: left;">More</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">Expected</td>
+<td style="text-align: left;">58%</td>
+<td style="text-align: left;">11%</td>
+<td style="text-align: left;">31%</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">Observed</td>
+<td style="text-align: left;">38%</td>
+<td style="text-align: left;">27%</td>
+<td style="text-align: left;">36%</td>
+</tr>
+</tbody>
+</table>
+
+*$<sup>2</sup> =17.037, df=2, p&lt;.001*
+
+When the video and practice features were integrated, **students
+practiced more frequently relative to how often they watched videos.**
+
+**RQ3** - performed thematic analysis of open-ended survey responses
+about what students liked and disliked
 
 Future Work
 ===========
@@ -105,8 +152,8 @@ the blank gradually to coding from scratch
 **Multimedia recording** featuring improved view of live coding,
 presenter gestures, and drawings/markup
 
-Plan to adopt Codewit.us as *primary homework*, following a Mastery
-Learning model
+Plan to adopt Codewit.us as *primary homework*, following a **Mastery
+Learning model**
 
 Open Materials
 ==============
