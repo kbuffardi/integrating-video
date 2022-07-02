@@ -135,7 +135,7 @@ vs. observed trends:
 </tbody>
 </table>
 
-χ^2=17.037, df=2, p&lt;.001
+χ<sup>2</sup>=17.037, df=2, p&lt;.001
 
 When the video and practice features were integrated, **students
 practiced more frequently relative to how often they watched videos.**
