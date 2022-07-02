@@ -65,20 +65,14 @@ In a term of CS1 at UCSB, we adopted Codewit.us
 * **11%** practiced as often
 * **31%** practiced **more often** than watching videos.
   
-**RQ2** - with the same procedure, we summarized how often students (n=156) practiced (in comparison to how often they watched videos):
-
-* **38% less often**
-* **27% as often**
-* **36% more often**
-
-and used a Chi-square goodness of fit test to compare the expected vs. observed trends:
+**RQ2** - with the same procedure, we summarized how relatively often students (n=156) practiced and compared to expected (previous) results:
 
 |          | Less              | Same | More   |
 |---------:|:------------------|:-----|:-------|
 | Expected | 58%               | 11%  | 31%    |
 | Observed | 38%               | 27%  | 36%    |
 
-&chi;^2^=17.037, df=2, p&lt;.001
+**&chi;^2^=17.037, df=2, p&lt;.001**
 
 When the video and practice features were integrated, **students practiced more frequently relative to how often they watched videos.**
 
@@ -97,7 +91,7 @@ When the video and practice features were integrated, **students practiced more 
   * *"I liked that they demonstrated the topic through multiple examples because that helped me understand the application of the topic I was struggling with."*
 * **Multimedia integration**
   * Step-by-step implementation of a concept as well as a combination of multimedia.
-  * **I liked the template with the tutorial and workout next to it. Gave it a much more hands-on video."**
+  * **"I liked the template with the tutorial and workout next to it. Gave it a much more hands-on video."""**
   
 ### Coding Practice (n=45, 29% of surveys)
 
@@ -112,7 +106,7 @@ When the video and practice features were integrated, **students practiced more 
   * Challenge and interest in the problems they are practicing
 * **Usability**
   * Satisfying and easy-to-use interface
-  * *"design is a little outdated"*
+  * One detractor: *"design is a little outdated"*
 
 # Future Work
 
@@ -121,7 +115,6 @@ When the video and practice features were integrated, **students practiced more 
 **Multimedia recording** featuring improved view of live coding, presenter gestures, and drawings/markup
 
 Plan to adopt Codewit.us as *primary homework*, following a **Mastery Learning model**
-
 
 # Open Materials
 

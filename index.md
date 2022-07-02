@@ -100,15 +100,8 @@ never used either and found:
 -   **11%** practiced as often
 -   **31%** practiced **more often** than watching videos.
 
-**RQ2** - with the same procedure, we summarized how often students
-(n=156) practiced (in comparison to how often they watched videos):
-
--   **38% less often**
--   **27% as often**
--   **36% more often**
-
-and used a Chi-square goodness of fit test to compare the expected
-vs. observed trends:
+**RQ2** - with the same procedure, we summarized how relatively often
+students (n=156) practiced and compared to expected (previous) results:
 
 <table>
 <thead>
@@ -135,7 +128,7 @@ vs. observed trends:
 </tbody>
 </table>
 
-χ<sup>2</sup>=17.037, df=2, p&lt;.001
+**χ<sup>2</sup>=17.037, df=2, p&lt;.001**
 
 When the video and practice features were integrated, **students
 practiced more frequently relative to how often they watched videos.**
@@ -159,8 +152,8 @@ about what students (dis)liked about videos and programming practice
 -   **Multimedia integration**
     -   Step-by-step implementation of a concept as well as a
         combination of multimedia.
-    -   **I liked the template with the tutorial and workout next to it.
-        Gave it a much more hands-on video."**
+    -   **“I liked the template with the tutorial and workout next to
+        it. Gave it a much more hands-on video.”""**
 
 ### Coding Practice (n=45, 29% of surveys)
 
@@ -178,7 +171,7 @@ about what students (dis)liked about videos and programming practice
     -   Challenge and interest in the problems they are practicing
 -   **Usability**
     -   Satisfying and easy-to-use interface
-    -   *“design is a little outdated”*
+    -   One detractor: *“design is a little outdated”*
 
 Future Work
 ===========
