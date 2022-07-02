@@ -141,7 +141,44 @@ When the video and practice features were integrated, **students
 practiced more frequently relative to how often they watched videos.**
 
 **RQ3** - performed thematic analysis of open-ended survey responses
-about what students liked and disliked
+about what students (dis)liked about videos and programming practice
+
+### Videos (n=39, 27% of surveys)
+
+-   **Focus**
+    -   Concise videos with specific topic
+    -   *“Quick and concise to the point.”*
+-   **Clarity**
+    -   Clear and simple explanations
+    -   *“\[I\] like how they make simple analogies.”*
+-   **Novel reinforcement**
+    -   Reinforcing understanding of a topic from a new perspective
+    -   *“I liked that they demonstrated the topic through multiple
+        examples because that helped me understand the application of
+        the topic I was struggling with.”*
+-   **Multimedia integration**
+    -   Step-by-step implementation of a concept as well as a
+        combination of multimedia.
+    -   **I liked the template with the tutorial and workout next to it.
+        Gave it a much more hands-on video."**
+
+### Coding Practice (n=45, 29% of surveys)
+
+-   **Apply and evaluate skills**
+    -   Practice in applying a topic and being able to evaluate their
+        skill at it
+-   **Cohesion with breadth**
+    -   Problems directly related to the concepts they study
+    -   Prefer to have multiple problems that provide variety of
+        applications
+-   **Feedback**
+    -   Prompt feedback associated with automated tests in coding
+        problems
+-   **Interest and demand**
+    -   Challenge and interest in the problems they are practicing
+-   **Usability**
+    -   Satisfying and easy-to-use interface
+    -   *“design is a little outdated”*
 
 Future Work
 ===========
