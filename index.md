@@ -19,7 +19,7 @@ Preface
     and remote learning
     -   Needs and challenges underscored by educational responses to
         COVID-19 pandemic
--   There are ongoing efforts to broaden participation in computing
+-   There are ongoing efforts to **broaden participation in computing**
     -   Need to teach computing in ways that are [relevant and
         meaningful to broader
         audiences](https://doi.org/10.1145/3502870.3506568)
@@ -35,8 +35,8 @@ Previous Work
             about half as likely to express interest in **games** and
             electronic hobbies like **robotics and microcontrollers**
         -   Minoritized students (by race and/or gender) expressed a
-            variety of interests from multimedia to athletics and
-            wellness, but seldomly considered those interests relevant
+            variety of interests from **multimedia to athletics and
+            wellness**, but seldomly considered those interests relevant
             to coding
 
 We want to provide students with **new perspectives and applications of
@@ -97,7 +97,7 @@ problems were provided separately (n=55), we discarded students who
 never used either and found:
 
 -   **58%** of students practiced **less often**
--   **11%** practiced as often
+-   **11%** practiced **same frequency**
 -   **31%** practiced **more often** than watching videos.
 
 **RQ2** - with the same procedure, we summarized how relatively often
@@ -153,7 +153,7 @@ about what students (dis)liked about videos and programming practice
     -   Step-by-step implementation of a concept as well as a
         combination of multimedia.
     -   **“I liked the template with the tutorial and workout next to
-        it. Gave it a much more hands-on video.”""**
+        it. Gave it a much more hands-on video.”**
 
 ### Coding Practice (n=45, 29% of surveys)
 
@@ -233,7 +233,8 @@ and development:
 Full Paper
 ==========
 
-The full paper will be available via ACM Digital library *coming soon*
+The full paper will be available via [ACM Digital
+library](https://doi.org/10.1145/3502718.3524778)
 
 To cite this paper, use the following reference in your bibliography:
 

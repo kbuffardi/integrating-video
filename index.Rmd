@@ -20,7 +20,7 @@ This presentation page is available at [learnbyfailure.com/integrating-video](ht
 
 * Increasing demand for eLearning resources to support asynchronous and remote learning
   * Needs and challenges underscored by educational responses to COVID-19 pandemic
-* There are ongoing efforts to broaden participation in computing
+* There are ongoing efforts to **broaden participation in computing**
   * Need to teach computing in ways that are [relevant and meaningful to broader audiences](https://doi.org/10.1145/3502870.3506568)
 
 ## Previous Work
@@ -28,7 +28,7 @@ This presentation page is available at [learnbyfailure.com/integrating-video](ht
 * Began with a [needs assessment to identify students' interests](../interests/)
   * Study revealed significant discrepancies in some areas of students' interests, especially by gender
     * Students who identified as women or non-binary were only about half as likely to express interest in **games** and electronic hobbies like **robotics and microcontrollers**
-    * Minoritized students (by race and/or gender) expressed a variety of interests from multimedia to athletics and wellness, but seldomly considered those interests relevant to coding
+    * Minoritized students (by race and/or gender) expressed a variety of interests from **multimedia to athletics and wellness**, but seldomly considered those interests relevant to coding
 
 We want to provide students with **new perspectives and applications of coding** so they can **discover how it is relevant and meaningful to their lives**.
 
@@ -62,7 +62,7 @@ In a term of CS1 at UCSB, we adopted Codewit.us
 **RQ1** - in post-hoc analysis of the term where videos and practice problems were provided separately (n=55), we discarded students who never used either and found:
   
 * **58%** of students practiced **less often**
-* **11%** practiced as often
+* **11%** practiced **same frequency**
 * **31%** practiced **more often** than watching videos.
   
 **RQ2** - with the same procedure, we summarized how relatively often students (n=156) practiced and compared to expected (previous) results:
@@ -91,7 +91,7 @@ When the video and practice features were integrated, **students practiced more 
   * *"I liked that they demonstrated the topic through multiple examples because that helped me understand the application of the topic I was struggling with."*
 * **Multimedia integration**
   * Step-by-step implementation of a concept as well as a combination of multimedia.
-  * **"I liked the template with the tutorial and workout next to it. Gave it a much more hands-on video."""**
+  * **"I liked the template with the tutorial and workout next to it. Gave it a much more hands-on video."**
   
 ### Coding Practice (n=45, 29% of surveys)
 
@@ -150,7 +150,7 @@ As well as research assistants who contributed to the platform design and develo
 
 # Full Paper
 
-The full paper will be available via ACM Digital library *coming soon*
+The full paper will be available via [ACM Digital library](https://doi.org/10.1145/3502718.3524778)
 
 To cite this paper, use the following reference in your bibliography:
 
